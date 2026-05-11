@@ -1,0 +1,19 @@
+time,src_ip,dst_ip,protocol,port,verdict,reason
+14:41:53,10.0.2.15,8.8.8.8,UDP,53,ALLOWED,Passed all rules
+14:41:53,8.8.8.8,10.0.2.15,UDP,50398,ALLOWED,Passed all rules
+14:41:53,10.0.2.15,8.8.8.8,UDP,53,ALLOWED,Passed all rules
+14:41:53,8.8.8.8,10.0.2.15,UDP,50398,ALLOWED,Passed all rules
+14:41:53,10.0.2.15,142.250.117.101,OTHER,0,BLOCKED,Protocol not allowed
+14:41:53,142.250.117.101,10.0.2.15,OTHER,0,BLOCKED,Protocol not allowed
+14:41:53,10.0.2.15,8.8.8.8,UDP,53,ALLOWED,Passed all rules
+14:41:53,8.8.8.8,10.0.2.15,UDP,49495,ALLOWED,Passed all rules
+14:41:54,10.0.2.15,142.250.117.101,OTHER,0,BLOCKED,Protocol not allowed
+14:41:54,142.250.117.101,10.0.2.15,OTHER,0,BLOCKED,Protocol not allowed
+14:41:55,10.0.2.15,142.250.117.101,OTHER,0,BLOCKED,Protocol not allowed
+14:41:55,142.250.117.101,10.0.2.15,OTHER,0,BLOCKED,Protocol not allowed
+14:41:56,10.0.2.15,142.250.117.101,OTHER,0,BLOCKED,Protocol not allowed
+14:41:56,142.250.117.101,10.0.2.15,OTHER,0,BLOCKED,Protocol not allowed
+14:41:57,10.0.2.15,142.250.117.101,OTHER,0,BLOCKED,Protocol not allowed
+14:41:57,142.250.117.101,10.0.2.15,OTHER,0,BLOCKED,Protocol not allowed
+14:41:58,10.0.2.15,142.250.117.101,OTHER,0,BLOCKED,Protocol not allowed
+14:41:58,142.250.117.101,10.0.2.15,OTHER,0,BLOCKED,Protocol not allowed
